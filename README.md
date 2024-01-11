@@ -1,11 +1,9 @@
-### Hi there 👋 I'm Lewis Magangi
+#### Hi there 👋, my name is Lewis
+
+Skills: PYTHON / C / JS / HTML / CSS
 
 - 🔭 I’m currently working on a Dynamic Cryptosuite Project.
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He / Him
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquelaliqour&theme=dark&show_icons=true)
