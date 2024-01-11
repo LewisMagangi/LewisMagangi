@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is Lewis
+#### Hi there 👋, I'm Lewis Magangi
 
 Skills: PYTHON / C / JS / HTML / CSS
 
