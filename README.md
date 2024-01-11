@@ -3,7 +3,17 @@
 - 🔭 I’m currently working on a Dynamic Cryptosuite Project.
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He / Him
-  
+
+### Let's Connect :
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/lewis-magangi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lewis-magangi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Lewis_Magangi#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Lewis_Magangi#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/email-light.svg)](https://email.com/lewismomanyi34@gmail.com#gh-light-mode-only)
+[![website](./img/email-dark.svg)](https://email.com/lewismomanyi34@gmail.com#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 
