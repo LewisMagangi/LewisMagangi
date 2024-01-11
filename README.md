@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lewis Magangi
 
 - 🔭 I’m currently working on a Dynamic Cryptosuite Project.
 - 🌱 I’m currently learning Web Development.
