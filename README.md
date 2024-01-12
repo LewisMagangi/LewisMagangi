@@ -6,14 +6,14 @@
 
 ### Let's Connect :
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Lewis_Magangi#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Lewis_Magangi#gh-dark-mode-only)
+[![website](./Images/twitter-light.svg)](https://twitter.com/Lewis_Magangi#gh-light-mode-only)
+[![website](./Images/twitter-dark.svg)](https://twitter.com/Lewis_Magangi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/lewis-magangi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/lewis-magangi#gh-dark-mode-only)
+[![website](./Images/linkedin-light.svg)](https://linkedin.com/in/lewis-magangi#gh-light-mode-only)
+[![website](./Images/linkedin-dark.svg)](https://linkedin.com/in/lewis-magangi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/Liquelaliqour#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/Liquelaliqour#gh-dark-mode-only)
+[![website](./Images/instagram-light.svg)](https://instagram.com/Liquelaliqour#gh-light-mode-only)
+[![website](./Images/instagram-dark.svg)](https://instagram.com/Liquelaliqour#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 
