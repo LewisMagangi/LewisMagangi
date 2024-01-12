@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He / Him
   
-### Education
+### Education :
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.google.com/searchsca_esv=597744388&sxsrf=ACQVn09sMMTuB_Od313PcgJ_sl8wxQDhkA:1705045228838&q=alx+icon&tbm=isch&chips=q:alx+icon,online_chips:alx+africa:fYC2rspHUxw%3D&usg=AI4_-kSHE_EKh2XNdQ0pbcdBwVzWiGurFg&sa=X&ved=2ahUKEwj297-5rNeDAxW4TKQEHR8fDSQQgIoDKAd6BAgUEB4&biw=1600&bih=739&dpr=1#imgrc=HFNHyq62gH10UM" />
-<br />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png" alt="Logo">
 
 ### Let's Connect :
 
