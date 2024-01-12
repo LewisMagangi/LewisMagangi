@@ -6,7 +6,7 @@
   
 ### Education :
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png" alt="Logo">
+<img align="left" alt="Holberton School" width="30px" style="padding-right:10px;" src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png" alt="Logo">
 <br />
 
 ### Let's Connect :
