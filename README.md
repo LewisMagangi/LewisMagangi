@@ -30,6 +30,15 @@
 
 #
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquelaliqour&theme=dark&show_icons=true)
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liquelaliqour&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotha\
+m" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquelaliqour&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Tren\
+d20" align = "center"/>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Liquelaliqour&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Liquelaliqour&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
