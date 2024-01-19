@@ -40,13 +40,12 @@ m" align = "center"/>
 
 ## Top Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquelaliqour&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Tren\
-d20" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquelaliqour&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Liqulelaliqour" align = "center"/>
 </p>
 
 ## Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Liquelaliqour&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 </details>
 
