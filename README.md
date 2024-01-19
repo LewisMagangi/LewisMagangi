@@ -32,8 +32,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Liquelaliqour&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Liquelaliqour&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
-
 </details>
 
 [twitter]: https://twitter.com/Lewis_Magangi
