@@ -35,8 +35,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquelaliqour&theme=dark&show_icons=true)
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liquelaliqour&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotha\
-m" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liquelaliqour&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
 
 ## Top Languages
 
