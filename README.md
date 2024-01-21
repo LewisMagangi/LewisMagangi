@@ -44,8 +44,7 @@
 
 ## Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Liquelaliqour&theme=dark&mode=weekly)](https://git.io/streak-stats)
 </details>
 
 [twitter]: https://twitter.com/Lewis_Magangi
