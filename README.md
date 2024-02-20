@@ -1,6 +1,6 @@
 #### Hi there 👋, I'm Lewis Magangi
 
-- 🔭 I’m currently working on a Dynamic Cryptosuite Project.
+- 🔭 I’m currently working on a Dynamic Cryptosuite Project, an Afya Bora app, my Portfolio, a Load Balancing System and multiple apps. 
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He / Him
 
