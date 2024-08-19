@@ -41,16 +41,16 @@
 
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liquelaliqour&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
 
 ## Top Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liquelaliqour&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Liqulelaliqour" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LewisMagangi&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="LewisMagangi" align = "center"/>
 </p>
 
 ## Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Liquelaliqour&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LewisMagangi&theme=dark&mode=weekly)](https://git.io/streak-stats)
 </details>
 
 [twitter]: https://twitter.com/Lewis_Magangi
