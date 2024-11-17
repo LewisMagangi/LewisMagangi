@@ -1,6 +1,6 @@
 #### Hi there 👋, I'm Lewis Magangi
 
-- 🔭 I’m currently working on a Dynamic Cryptosuite Project, an Afya Bora app, my Portfolio, a Load Balancing System and multiple apps. 
+- 🔭 I’m currently working on a Backend Web Specilazation and Mobile Development. 
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He / Him
 
@@ -30,8 +30,11 @@
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg/">
+<img align="left" alt="Eslint" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg">
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" />
 
 <br />
 
