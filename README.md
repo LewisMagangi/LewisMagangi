@@ -33,7 +33,7 @@
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line-wordmark.svg/">
 <img align="left" alt="Eslint" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg">
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" />
 
 <br />
