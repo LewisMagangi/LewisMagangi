@@ -93,3 +93,19 @@
 [twitter]: https://twitter.com/Lewis_Magangi
 [instagram]: https://instagram.com/Liquelaliqour
 [linkedin]: https://linkedin.com/in/lewis-magangi
+
+
+### 🎮 Play Breakout with My GitHub Contributions!
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="Images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="Images/breakout-light.svg"
+  />
+  <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" />
+</picture>
+
+*This interactive Breakout game is generated from my actual GitHub contribution graph! The blocks represent my coding activity throughout the year.*
