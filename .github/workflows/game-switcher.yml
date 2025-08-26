@@ -24,7 +24,7 @@ jobs:
           DAY_OF_YEAR=$(date +%j)
           
           # Use modulo to alternate: even days = breakout, odd days = snake
-          if [ $((DAY_OF_YEAR % 2)) -eq 1 ]; then
+          if [ $((DAY_OF_YEAR % 2)) -eq 0 ]; then
             echo "Switching to Breakout Game (Day $DAY_OF_YEAR - Even)"
             # Show breakout, hide snake
             sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
