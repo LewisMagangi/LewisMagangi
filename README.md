@@ -1,8 +1,8 @@
-# 🌟 Enhanced GitHub README
+# 🌟 GitHub README
 
 <div align="center">
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lewis%20Magangi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Chess%20Enthusiast&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lewis%20Magangi&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
@@ -35,6 +35,7 @@
 
 <div align="center">
 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lewis_Magangi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-magangi)
@@ -55,11 +56,11 @@
 |---------|-------------|------------|-------|
 | 🏠 **Portfolio** | Personal portfolio showcasing my work (coming soon) | React, TypeScript, Tailwind | — |
 | 💧 **Solar Powered Water ATM System** | Python-based web app for secure, sustainable water access via solar-powered dispensing units | Django, Python, Flask, REST API, IoT, SQL | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/solar-water-atm) |
-| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing | Django, Python, SQLite, HTML5, CSS3, JS | [![Live](https://img.shields.io/badge/Live-4CAF50?style=flat&logo=render)](https://sustainablefishing.onrender.com/content/home/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/sustainable-fishing) |
+| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing | Django, Python, SQLite, HTML5, CSS3, JS | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=render&logoColor=white)](https://sustainablefishing.onrender.com/content/home/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/sustainable-fishing) |
 | 🔐 **Cryptography Web App** | Django-based platform for cryptographic analysis and visualization | Django, Python, REST API, Cryptography, SQLite | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/cryptography-web-app) |
-| 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel)](https://wamumbi.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/wamumbi) |
+| 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://wamumbi.vercel.app/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/wamumbi) |
 | 🩺 **Afya Bora** | Django web app for health & wellness community | Django, Python, SQLite, HTML, CSS | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/afya-bora) |
-| 🗣️ **SNE Portal** | Advanced web portal for secure online voice exams | Django, Python, Whisper, Coqui TTS, Selenium | [![Live](https://img.shields.io/badge/Live-FF6B6B?style=flat&logo=render)](https://sneportal.onrender.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/sneportal) |
+| 🗣️ **SNE Portal** | Advanced web portal for secure online voice exams | Django, Python, Whisper, Coqui TTS, Selenium | [![Live](https://img.shields.io/badge/Live-70a5fd?style=flat&logo=render&logoColor=white)](https://sneportal.onrender.com/) [![Code](https://img.shields.io/badge/Code-38bdae?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/sneportal) |
 
 </div>
 
@@ -178,7 +179,7 @@ const lewisCurrently = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=LewisMagangi&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=LewisMagangi&label=Profile%20views&color=70a5fd&style=flat)
 [![Years Badge](https://badges.pufler.dev/years/LewisMagangi)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/LewisMagangi)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/LewisMagangi)](https://badges.pufler.dev)
