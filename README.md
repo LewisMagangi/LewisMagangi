@@ -1,8 +1,13 @@
 #### Hi there 👋, I'm Lewis Magangi
 
-- 🔭 I’m currently working on a Backend Web Specilazation and Mobile Development. 
-- 🌱 I’m currently learning Web Development.
+- 🔭 I'm currently working on my portfolio, sneportal, wamumbi and a couple of private projects. 
+- 🌱 I'm currently learning Pro Frontend/Backend Web Development at ALX.
 - 😄 Pronouns: He / Him
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=LewisMagangi&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### Let's Connect :
 
@@ -14,6 +19,19 @@
 &nbsp;&nbsp;
 [![website](./Images/instagram-light.svg)](https://instagram.com/Liquelaliqour#gh-light-mode-only)
 [![website](./Images/instagram-dark.svg)](https://instagram.com/Liquelaliqour#gh-dark-mode-only)
+
+### 🏆 Competitive Programming & Gaming
+
+**💻 Coding Challenges:**
+- 🔥 [Codeforces](https://codeforces.com/profile/Liquelaliqour) - Let's solve some competitive programming problems!
+- 💡 [LeetCode](https://leetcode.com/u/LewisMagangi/) - Grinding algorithms and data structures
+- ⚔️ [Codewars](https://www.codewars.com/users/Liquelaliqour) - Sharpening coding skills one kata at a time
+
+**♟️ Wanna play chess?**
+- 🏆 [Lichess](https://lichess.org/@/Lique) - Free online chess, hop in for a quick game!
+- ♔ [Chess.com](https://www.chess.com/member/Liquelaliqour) - Challenge me to a match anytime
+
+<br />
 
 ### 🧰 Languages  
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
@@ -94,6 +112,7 @@
 [instagram]: https://instagram.com/Liquelaliqour
 [linkedin]: https://linkedin.com/in/lewis-magangi
 
+<br />
 
 ### 🎮 Play Breakout with My GitHub Contributions!
 <picture>
@@ -108,4 +127,3 @@
   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" />
 </picture>
 
-*This interactive Breakout game is generated from my actual GitHub contribution graph! The blocks represent my coding activity throughout the year.*
