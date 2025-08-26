@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:      # Allow manual trigger
+  push:
+    branches: [ main ]    # Also run on push to main
 
 jobs:
   generate-snake:
@@ -15,11 +17,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: LewisMagangi
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -41,6 +45,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🐍 Update snake animation SVG"
-            git pull --rebase origin main
+            git pull --rebase origin main || true
             git push
           fi

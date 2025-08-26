@@ -1,0 +1,23 @@
+<svg viewBox="0 0 906 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .snake-background { fill: #0d1117; }
+      .snake-contribution { fill: #39d353; }
+      .snake-text { fill: #c9d1d9; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 14px; }
+    </style>
+  </defs>
+  
+  <rect class="snake-background" width="906" height="300"/>
+  
+  <text x="453" y="150" class="snake-text" text-anchor="middle">🐍 Snake Animation Loading...</text>
+  <text x="453" y="180" class="snake-text" text-anchor="middle">The GitHub Action will generate this soon!</text>
+  
+  <!-- Temporary snake representation -->
+  <circle class="snake-contribution" cx="100" cy="200" r="8"/>
+  <circle class="snake-contribution" cx="120" cy="200" r="8"/>
+  <circle class="snake-contribution" cx="140" cy="200" r="8"/>
+  <circle class="snake-contribution" cx="160" cy="200" r="8"/>
+  <circle class="snake-contribution" cx="180" cy="200" r="8"/>
+  
+  <text x="453" y="250" class="snake-text" text-anchor="middle">Run the Snake workflow in GitHub Actions!</text>
+</svg>
