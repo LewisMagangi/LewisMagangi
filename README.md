@@ -91,22 +91,22 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LewisMagangi&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LewisMagangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LewisMagangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
 </div>
 
 ### 🎯 Current Focus
