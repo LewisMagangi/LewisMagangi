@@ -2,14 +2,16 @@
 
 - 🔭 I'm currently working on my portfolio, sneportal, wamumbi and a couple of private projects. 
 - 🌱 I'm currently learning Pro Frontend/Backend Web Development at ALX.
+- 🎯 2025 Goals: Master full-stack development and contribute to open source
+- ⚡ Fun fact: I love solving algorithmic puzzles and playing chess in my free time
 - 😄 Pronouns: He / Him
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=LewisMagangi&color=blueviolet&style=flat-square&label=Profile+Views)
+### 🤝 Let's Connect
 
-### Let's Connect :
+[![GitHub followers](https://img.shields.io/github/followers/LewisMagangi?label=Follow&style=social)](https://github.com/LewisMagangi)
+[![GitHub stars](https://img.shields.io/github/stars/LewisMagangi?label=Stars&style=social)](https://github.com/LewisMagangi)
 
 [![website](./Images/twitter-light.svg)](https://twitter.com/Lewis_Magangi#gh-light-mode-only)
 [![website](./Images/twitter-dark.svg)](https://twitter.com/Lewis_Magangi#gh-dark-mode-only)
@@ -19,6 +21,18 @@
 &nbsp;&nbsp;
 [![website](./Images/instagram-light.svg)](https://instagram.com/Liquelaliqour#gh-light-mode-only)
 [![website](./Images/instagram-dark.svg)](https://instagram.com/Liquelaliqour#gh-dark-mode-only)
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🏠 **Portfolio** | Personal portfolio showcasing my work | React, TypeScript, Tailwind | [Live](https://your-portfolio.com) • [Code](https://github.com/LewisMagangi/portfolio) |
+| 🎓 **SNEPortal** | Student portal management system | Django, PostgreSQL, Bootstrap | [Code](https://github.com/LewisMagangi/sneportal) |
+| 🌍 **Wamumbi** | Community platform project | Node.js, MongoDB, Express | [Code](https://github.com/LewisMagangi/wamumbi) |
+
+</div>
 
 ### 🏆 Competitive Programming & Gaming
 
@@ -31,88 +45,81 @@
 - 🏆 [Lichess](https://lichess.org/@/Lique) - Free online chess, hop in for a quick game!
 - ♔ [Chess.com](https://www.chess.com/member/Liquelaliqour) - Challenge me to a match anytime
 
-<br />
+### 💼 Tech Stack
 
-### 🧰 Languages  
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
-<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+<details>
+<summary>🧰 <strong>Languages</strong></summary>
+<br>
 
-<br />  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools  
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
-<img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />  
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" />  
-<img align="left" alt="ssh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />  
-<img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" />  
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />  
-<img align="left" alt="Nano" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-plain-wordmark.svg" />  
-
-<br />  
-
-### 🖥️ Frontend  
-<img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>  
-<img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>  
-
-<br />  
-
-### 🔗 Backend  
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />  
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />  
-<img align="left" alt="SqlAlchemy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />  
-
-<br />  
-
-### 💾 Databases  
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />  
-
-<br />  
-
-### ⚙️ Web Servers  
-<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>  
-<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg/">  
-
-<br />  
-
-### 🧪 Testing  
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />  
-<img align="left" alt="Mocha" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />  
-<img align="left" alt="Eslint" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg">
-
-<br />
-
-#
-
-##  Stats
-
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
-
-## Top Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LewisMagangi&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="LewisMagangi" align = "center"/>
-</p>
-
-## Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LewisMagangi&theme=dark&mode=weekly)](https://git.io/streak-stats)
 </details>
 
-[twitter]: https://twitter.com/Lewis_Magangi
-[instagram]: https://instagram.com/Liquelaliqour
-[linkedin]: https://linkedin.com/in/lewis-magangi
+<details>
+<summary>🔧 <strong>Frameworks & Tools</strong></summary>
+<br>
 
-<br />
+**Backend:**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LewisMagangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+### 🎯 Current Focus
+
+```javascript
+const lewis = {
+    currentFocus: ["Full-Stack Development", "System Design", "Open Source"],
+    learning: ["Advanced React Patterns", "Microservices", "DevOps"],
+    askMeAbout: ["Web Development", "Algorithms", "Chess Strategy"],
+    funFact: "I debug code faster when I'm listening to music 🎵"
+};
+```
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Coming soon... Setting up my tech blog!
+<!-- BLOG-POST-LIST:END -->
 
 ### 🎮 Play Breakout with My GitHub Contributions!
 <picture>
@@ -126,4 +133,13 @@
   />
   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" />
 </picture>
+
+---
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
+
+[twitter]: https://twitter.com/Lewis_Magangi
+[instagram]: https://instagram.com/Liquelaliqour
+[linkedin]: https://linkedin.com/in/lewis-magangi
 
