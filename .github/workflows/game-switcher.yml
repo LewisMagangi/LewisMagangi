@@ -22,38 +22,39 @@ jobs:
         run: |
           # Get current day of year to determine which game to show
           DAY_OF_YEAR=$(date +%j)
+          echo "Day of year: $DAY_OF_YEAR"
           
           # Use modulo to alternate: even days = breakout, odd days = snake
           if [ $((DAY_OF_YEAR % 2)) -eq 0 ]; then
             echo "Switching to Breakout Game (Day $DAY_OF_YEAR - Even)"
-            # Show breakout, hide snake
-            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
-              /<!-- Snake Game (Hidden)/,/<!-- \/Snake Game -->/ {
+            
+            # Replace with breakout version - uncomment breakout, comment snake
+            sed -i '/## 🎮 Interactive GitHub Games/,/^<\/div>$/ {
+              /^<!-- ### 🧱 Play Breakout/,/^<!-- <\/picture> -->$/ {
                 s/^<!-- //
                 s/ -->$//
               }
-              /## 🧱 Play Breakout/,/\/picture>/ {
-                s/^<!-- //
-                s/ -->$//
-              }
-              /## 🐍 Watch the Snake/,/snake\.svg)/ {
+              /^### 🐍 Watch the Snake/,/^!\[Snake animation\]/ {
                 s/^/<!-- /
                 s/$/ -->/
               }
             }' README.md
+            
           else
             echo "Switching to Snake Game (Day $DAY_OF_YEAR - Odd)"
-            # Show snake, hide breakout
-            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
-              /## 🧱 Play Breakout/,/\/picture>/ {
+            
+            # Replace with snake version - comment breakout, uncomment snake
+            sed -i '/## 🎮 Interactive GitHub Games/,/^<\/div>$/ {
+              /^### 🧱 Play Breakout/,/^<\/picture>$/ {
                 s/^/<!-- /
                 s/$/ -->/
               }
-              /## 🐍 Watch the Snake/,/snake\.svg)/ {
+              /^<!-- ### 🐍 Watch the Snake/,/^<!-- !\[Snake animation\]/ {
                 s/^<!-- //
                 s/ -->$//
               }
             }' README.md
+            
           fi
 
       - name: Commit changes
