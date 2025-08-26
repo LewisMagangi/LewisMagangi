@@ -193,7 +193,7 @@ const lewisCurrently = {
 <div align="center">
 
 ### 🧱 Play Breakout with My Contributions!
-*Click and play! This breakout game is built from my actual GitHub contribution graph*
+
 
 <picture>
   <source
