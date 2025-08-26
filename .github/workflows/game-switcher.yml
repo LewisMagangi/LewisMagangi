@@ -66,5 +66,6 @@ jobs:
           else
             GAME_TYPE=$(if [ $(($(date +%j) % 2)) -eq 0 ]; then echo "Breakout"; else echo "Snake"; fi)
             git commit -m "🎮 Daily game switch: Now showing $GAME_TYPE game"
+            git pull --rebase origin main
             git push
           fi
