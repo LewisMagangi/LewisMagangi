@@ -28,9 +28,13 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🏠 **Portfolio** | Personal portfolio showcasing my work | React, TypeScript, Tailwind | [Live](https://your-portfolio.com) • [Code](https://github.com/LewisMagangi/portfolio) |
-| 🎓 **SNEPortal** | Student portal management system | Django, PostgreSQL, Bootstrap | [Code](https://github.com/LewisMagangi/sneportal) |
-| 🌍 **Wamumbi** | Community platform project | Node.js, MongoDB, Express | [Code](https://github.com/LewisMagangi/wamumbi) |
+| 🏠 **Portfolio** | Personal portfolio showcasing my work (coming soon) | React, TypeScript, Tailwind | — |
+| 💧 **Solar Powered Water ATM System** | Python-based web app for secure, sustainable water access via solar-powered dispensing units. Led backend migration to Django, implemented authentication, security, real-time monitoring, and robust testing. | Django, Python, Flask, REST API, IoT, SQL | [Code](https://github.com/LewisMagangi/solar-water-atm) |
+| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing. Architected multi-app system, custom admin, RBAC, analytics, and responsive UI. | Django, Python, SQLite, HTML5, CSS3, JS | [Code](https://github.com/LewisMagangi/sustainable-fishing) |
+| 🔐 **Cryptography Web App** | Django-based platform for cryptographic analysis, visualization, and benchmarking. Developed encryption modules, REST APIs, and data visualization tools. | Django, Python, REST API, Cryptography, SQLite | [Code](https://github.com/LewisMagangi/cryptography-web-app) |
+| 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript. Built modular UI, SSR, Prisma ORM, and secure authentication. | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS | [Code](https://github.com/LewisMagangi/wamumbi) |
+| 🩺 **Afya Bora** | Django web app for health & wellness community. Built user management, Q&A forums, content delivery, and robust authentication. | Django, Python, SQLite, HTML, CSS | [Code](https://github.com/LewisMagangi/afya-bora) |
+| 🗣️ **SNE Portal** | Advanced web portal for secure, accessible, privacy-focused online voice exams. Integrated local Whisper ASR & Coqui TTS, enforced WCAG 2.1 AA accessibility, and automated accessibility testing. | Django, Python, Whisper, Coqui TTS, Selenium, Pa11y, Axe | [Code](https://github.com/LewisMagangi/sneportal) |
 
 </div>
 
