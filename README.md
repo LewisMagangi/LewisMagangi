@@ -1,4 +1,4 @@
-# 🌟 GitHub README
+# 🌟 GitHub PROFILE
 
 <div align="center">
   <!-- Animated Header Banner -->
@@ -27,7 +27,12 @@
 
 <br clear="right"/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+<div align="center">
+  
+  ### 💭 Dev Quote
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
 
 ---
 
