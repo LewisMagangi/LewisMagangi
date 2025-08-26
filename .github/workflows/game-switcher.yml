@@ -22,39 +22,38 @@ jobs:
         run: |
           # Get current day of year to determine which game to show
           DAY_OF_YEAR=$(date +%j)
-          echo "Day of year: $DAY_OF_YEAR"
           
           # Use modulo to alternate: even days = breakout, odd days = snake
           if [ $((DAY_OF_YEAR % 2)) -eq 0 ]; then
             echo "Switching to Breakout Game (Day $DAY_OF_YEAR - Even)"
-            
-            # Replace with breakout version - uncomment breakout, comment snake
-            sed -i '/## 🎮 Interactive GitHub Games/,/^<\/div>$/ {
-              /^<!-- ### 🧱 Play Breakout/,/^<!-- <\/picture> -->$/ {
+            # Show breakout, hide snake
+            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
+              /<!-- Snake Game (Hidden)/,/<!-- \/Snake Game -->/ {
                 s/^<!-- //
                 s/ -->$//
               }
-              /^### 🐍 Watch the Snake/,/^!\[Snake animation\]/ {
+              /## 🧱 Play Breakout/,/\/picture>/ {
+                s/^<!-- //
+                s/ -->$//
+              }
+              /## 🐍 Watch the Snake/,/snake\.svg)/ {
                 s/^/<!-- /
                 s/$/ -->/
               }
             }' README.md
-            
           else
             echo "Switching to Snake Game (Day $DAY_OF_YEAR - Odd)"
-            
-            # Replace with snake version - comment breakout, uncomment snake
-            sed -i '/## 🎮 Interactive GitHub Games/,/^<\/div>$/ {
-              /^### 🧱 Play Breakout/,/^<\/picture>$/ {
+            # Show snake, hide breakout
+            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
+              /## 🧱 Play Breakout/,/\/picture>/ {
                 s/^/<!-- /
                 s/$/ -->/
               }
-              /^<!-- ### 🐍 Watch the Snake/,/^<!-- !\[Snake animation\]/ {
+              /## 🐍 Watch the Snake/,/snake\.svg)/ {
                 s/^<!-- //
                 s/ -->$//
               }
             }' README.md
-            
           fi
 
       - name: Commit changes
@@ -67,6 +66,5 @@ jobs:
           else
             GAME_TYPE=$(if [ $(($(date +%j) % 2)) -eq 0 ]; then echo "Breakout"; else echo "Snake"; fi)
             git commit -m "🎮 Daily game switch: Now showing $GAME_TYPE game"
-            git pull --rebase origin main
             git push
           fi

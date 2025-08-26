@@ -27,12 +27,7 @@
 
 <br clear="right"/>
 
-<div align="center">
-  
-  ### 💭 Dev Quote
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
-</div>
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ---
 
@@ -198,7 +193,7 @@ const lewisCurrently = {
 <div align="center">
 
 ### 🧱 Play Breakout with My Contributions!
-*Click and play! This breakout game is built from my actual GitHub contribution graph*
+
 
 <picture>
   <source

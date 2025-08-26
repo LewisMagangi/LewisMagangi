@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:      # Allow manual trigger
   push:
-    branches: [ main ]    # Also run on push to main
+    branches: [ master ]    # Also run on push to master
 
 jobs:
   generate-snake:
@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
         
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LewisMagangi
           outputs: |
@@ -45,6 +45,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🐍 Update snake animation SVG"
-            git pull --rebase origin main || true
             git push
           fi
