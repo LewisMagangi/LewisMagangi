@@ -212,7 +212,7 @@ const lewisCurrently = {
   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" />
 </picture>
 
-<!-- Snake Game (Hidden) -->
+Snake Game (Hidden)
 <!-- ### 🐍 Watch the Snake Eat My Contributions! -->
 <!-- *This animated snake devours my GitHub contribution squares in real-time* -->
 <!-- ![Snake animation](https://github.com/LewisMagangi/LewisMagangi/blob/output/github-contribution-grid-snake.svg) -->
