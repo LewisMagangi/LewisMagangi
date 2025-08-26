@@ -30,11 +30,11 @@
 |---------|-------------|------------|-------|
 | 🏠 **Portfolio** | Personal portfolio showcasing my work (coming soon) | React, TypeScript, Tailwind | — |
 | 💧 **Solar Powered Water ATM System** | Python-based web app for secure, sustainable water access via solar-powered dispensing units. Led backend migration to Django, implemented authentication, security, real-time monitoring, and robust testing. | Django, Python, Flask, REST API, IoT, SQL | [Code](https://github.com/LewisMagangi/solar-water-atm) |
-| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing. Architected multi-app system, custom admin, RBAC, analytics, and responsive UI. | Django, Python, SQLite, HTML5, CSS3, JS | [Code](https://github.com/LewisMagangi/sustainable-fishing) |
+| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing. Architected multi-app system, custom admin, RBAC, analytics, and responsive UI. | Django, Python, SQLite, HTML5, CSS3, JS | [Live](https://sustainablefishing.onrender.com/content/home/) • [Code](https://github.com/LewisMagangi/sustainable-fishing) |
 | 🔐 **Cryptography Web App** | Django-based platform for cryptographic analysis, visualization, and benchmarking. Developed encryption modules, REST APIs, and data visualization tools. | Django, Python, REST API, Cryptography, SQLite | [Code](https://github.com/LewisMagangi/cryptography-web-app) |
-| 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript. Built modular UI, SSR, Prisma ORM, and secure authentication. | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS | [Code](https://github.com/LewisMagangi/wamumbi) |
+| 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript. Built modular UI, SSR, Prisma ORM, and secure authentication. | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS | [Live](https://wamumbi.vercel.app/) • [Code](https://github.com/LewisMagangi/wamumbi) |
 | 🩺 **Afya Bora** | Django web app for health & wellness community. Built user management, Q&A forums, content delivery, and robust authentication. | Django, Python, SQLite, HTML, CSS | [Code](https://github.com/LewisMagangi/afya-bora) |
-| 🗣️ **SNE Portal** | Advanced web portal for secure, accessible, privacy-focused online voice exams. Integrated local Whisper ASR & Coqui TTS, enforced WCAG 2.1 AA accessibility, and automated accessibility testing. | Django, Python, Whisper, Coqui TTS, Selenium, Pa11y, Axe | [Code](https://github.com/LewisMagangi/sneportal) |
+| 🗣️ **SNE Portal** | Advanced web portal for secure, accessible, privacy-focused online voice exams. Integrated local Whisper ASR & Coqui TTS, enforced WCAG 2.1 AA accessibility, and automated accessibility testing. | Django, Python, Whisper, Coqui TTS, Selenium, Pa11y, Axe | [Live](https://sneportal.onrender.com/) • [Code](https://github.com/LewisMagangi/sneportal) |
 
 </div>
 
@@ -91,22 +91,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LewisMagangi&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LewisMagangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ### 🎯 Current Focus
