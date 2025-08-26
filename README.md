@@ -187,8 +187,13 @@ const lewisCurrently = {
 
 ---
 
-## 🎮 Play Breakout with My GitHub Contributions!
+## 🎮 Interactive GitHub Games
+
 <div align="center">
+
+### 🧱 Play Breakout with My Contributions!
+*Click and play! This breakout game is built from my actual GitHub contribution graph*
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -200,16 +205,11 @@ const lewisCurrently = {
   />
   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" />
 </picture>
-</div>
 
----
-
-## 🐍 Fun Stuff
-
-<div align="center">
-  
-### Contribution Snake Animation
-![Snake animation](https://github.com/LewisMagangi/LewisMagangi/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Game (Hidden) -->
+<!-- ### 🐍 Watch the Snake Eat My Contributions! -->
+<!-- *This animated snake devours my GitHub contribution squares in real-time* -->
+<!-- ![Snake animation](https://github.com/LewisMagangi/LewisMagangi/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
