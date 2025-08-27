@@ -26,34 +26,18 @@ jobs:
           # Use modulo to alternate: even days = breakout, odd days = snake
           if [ $((DAY_OF_YEAR % 2)) -eq 0 ]; then
             echo "Switching to Breakout Game (Day $DAY_OF_YEAR - Even)"
-            # Show breakout, hide snake
-            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
-              /<!-- Snake Game (Hidden)/,/<!-- \/Snake Game -->/ {
-                s/^<!-- //
-                s/ -->$//
-              }
-              /## 🧱 Play Breakout/,/\/picture>/ {
-                s/^<!-- //
-                s/ -->$//
-              }
-              /## 🐍 Watch the Snake/,/snake\.svg)/ {
-                s/^/<!-- /
-                s/$/ -->/
-              }
-            }' README.md
+            # Replace snake animation with breakout game
+            sed -i 's|github-contribution-grid-snake|breakout|g' README.md
+            sed -i 's|https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/breakout-dark.svg|Images/breakout-dark.svg|g' README.md
+            sed -i 's|https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/breakout.svg|Images/breakout-light.svg|g' README.md
+            sed -i 's|Snake animation|Breakout Game|g' README.md
           else
             echo "Switching to Snake Game (Day $DAY_OF_YEAR - Odd)"
-            # Show snake, hide breakout
-            sed -i '/## 🎮 Interactive GitHub Games/,/---/ {
-              /## 🧱 Play Breakout/,/\/picture>/ {
-                s/^/<!-- /
-                s/$/ -->/
-              }
-              /## 🐍 Watch the Snake/,/snake\.svg)/ {
-                s/^<!-- //
-                s/ -->$//
-              }
-            }' README.md
+            # Replace breakout game with snake animation
+            sed -i 's|Images/breakout-dark.svg|https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake-dark.svg|g' README.md
+            sed -i 's|Images/breakout-light.svg|https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg|g' README.md
+            sed -i 's|breakout|github-contribution-grid-snake|g' README.md
+            sed -i 's|Breakout Game|Snake animation|g' README.md
           fi
 
       - name: Commit changes

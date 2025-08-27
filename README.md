@@ -177,24 +177,6 @@ const lewisCurrently = {
 
 <div align="center">
 
-<!-- <!-- ### 🧱 Play Breakout with My Contributions! --> -->
-<!-- <!--  --> -->
-<!-- <!--  --> -->
-<!-- <!-- <picture> --> -->
-<!-- <!--   <source --> -->
-<!-- <!--     media="(prefers-color-scheme: dark)" --> -->
-<!-- <!--     srcset="Images/breakout-dark.svg" --> -->
-<!-- <!--   /> --> -->
-<!-- <!--   <source --> -->
-<!-- <!--     media="(prefers-color-scheme: light)" --> -->
-<!-- <!--     srcset="Images/breakout-light.svg" --> -->
-<!-- <!--   /> --> -->
-<!-- <!--   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" /> --> -->
-<!-- <!-- </picture> --> -->
-
-### 🐍 Watch the Snake Eat My Contributions!
-*This animated snake devours my GitHub contribution squares in real-time*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg">
