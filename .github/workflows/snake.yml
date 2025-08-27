@@ -13,13 +13,13 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-        
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,17 +27,12 @@ jobs:
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Show generated files
-        run: |
-          echo "Generated files:"
-          ls -la output/ || echo "Output directory not found"
-          
+
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
       - name: Commit and push Snake SVG
         run: |
           git add output/
@@ -47,3 +42,4 @@ jobs:
             git commit -m "🐍 Update snake animation SVG"
             git push
           fi
+          

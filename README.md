@@ -171,21 +171,6 @@ const lewisCurrently = {
 };
 ```
 
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=LewisMagangi&label=Profile%20views&color=70a5fd&style=flat)
-[![Years Badge](https://badges.pufler.dev/years/LewisMagangi)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/LewisMagangi)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/LewisMagangi)](https://badges.pufler.dev)
-
-</div>
-
 ---
 
 ## 🎮 Interactive GitHub Games
