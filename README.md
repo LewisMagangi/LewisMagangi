@@ -177,20 +177,20 @@ const lewisCurrently = {
 
 <div align="center">
 
-<!-- <!-- ### 🧱 Play Breakout with My Contributions! --> -->
-<!-- <!--  --> -->
-<!-- <!--  --> -->
-<!-- <!-- <picture> --> -->
-<!-- <!--   <source --> -->
-<!-- <!--     media="(prefers-color-scheme: dark)" --> -->
-<!-- <!--     srcset="Images/breakout-dark.svg" --> -->
-<!-- <!--   /> --> -->
-<!-- <!--   <source --> -->
-<!-- <!--     media="(prefers-color-scheme: light)" --> -->
-<!-- <!--     srcset="Images/breakout-light.svg" --> -->
-<!-- <!--   /> --> -->
-<!-- <!--   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" /> --> -->
-<!-- <!-- </picture> --> -->
+<!-- <!-- <!-- ### 🧱 Play Breakout with My Contributions! --> --> -->
+<!-- <!-- <!--  --> --> -->
+<!-- <!-- <!--  --> --> -->
+<!-- <!-- <!-- <picture> --> --> -->
+<!-- <!-- <!--   <source --> --> -->
+<!-- <!-- <!--     media="(prefers-color-scheme: dark)" --> --> -->
+<!-- <!-- <!--     srcset="Images/breakout-dark.svg" --> --> -->
+<!-- <!-- <!--   /> --> --> -->
+<!-- <!-- <!--   <source --> --> -->
+<!-- <!-- <!--     media="(prefers-color-scheme: light)" --> --> -->
+<!-- <!-- <!--     srcset="Images/breakout-light.svg" --> --> -->
+<!-- <!-- <!--   /> --> --> -->
+<!-- <!-- <!--   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" /> --> --> -->
+<!-- <!-- <!-- </picture> --> --> -->
 
 Snake Game (Hidden)
 ### 🐍 Watch the Snake Eat My Contributions!
