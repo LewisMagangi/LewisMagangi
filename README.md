@@ -192,10 +192,14 @@ const lewisCurrently = {
 <!-- <!--   <img alt="Breakout Game generated from GitHub contributions" src="Images/breakout-light.svg" /> --> -->
 <!-- <!-- </picture> --> -->
 
-Snake Game (Hidden)
 ### 🐍 Watch the Snake Eat My Contributions!
 *This animated snake devours my GitHub contribution squares in real-time*
-![Snake animation](https://github.com/LewisMagangi/LewisMagangi/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
