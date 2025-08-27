@@ -152,7 +152,12 @@
 ```javascript
 const lewisCurrently = {
     code: ["JavaScript", "TypeScript", "Python", "Django"],
-    askMeAbout: ["Web Development", "Algorithms", "Chess Strategy", "Tech Career"],
+    askMeAbout: [
+        "Web Development", 
+        "Algorithms", 
+        "Chess Strategy", 
+        "Tech Career"
+    ],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -162,12 +167,25 @@ const lewisCurrently = {
             python: ["Django", "Flask"],
             js: ["Node", "Express"]
         },
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-        misc: ["Docker", "REST APIs", "GraphQL"]
+        databases: [
+            "PostgreSQL", 
+            "MySQL", 
+            "MongoDB", 
+            "SQLite"
+        ],
+        misc: [
+            "Docker", 
+            "REST APIs", 
+            "GraphQL"
+        ]
     },
-    architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
+    architecture: [
+        "Microservices", 
+        "Event-Driven", 
+        "Design System Pattern"
+    ],
     currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug code faster when listening to music 🎵"
+    funFact: "I debug code faster when listening to classical music 🎵"
 };
 ```
 
