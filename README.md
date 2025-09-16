@@ -136,7 +136,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Weekly Streak" />
 </div>
 
 <div align="center">
