@@ -1,22 +1,16 @@
 # 🌟 GitHub PROFILE
 
-<div align="center">
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lewis%20Magangi&fontSize=90&animation=fadeIn&fontAlignY=38" />
-</div>
+<!-- Animated Header Banner -->
+![Lewis Magangi Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Lewis%20Magangi&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<div align="center">
-  
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;ALX+Software+Engineering+Student;Chess+Enthusiast+%26+Problem+Solver;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
-  
-</div>
+<!-- Animated Typing Effect -->
+![Animated typing text showing roles and interests](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;ALX+Software+Engineering+Student;Chess+Enthusiast+%26+Problem+Solver;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+![Coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 - 🔭 Currently working on **Portfolio**, **SNE Portal**, **Wamumbi** and private projects
 - 🌱 Learning **Pro Frontend/Backend Development** at **ALX**
@@ -25,16 +19,11 @@
 - 😄 **Pronouns:** He/Him
 - 💬 Ask me about **Web Development**, **Algorithms**, **Chess Strategy**
 
-<br clear="right"/>
-
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ---
 
 ## 🤝 Connect With Me
-
-<div align="center">
-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lewis_Magangi)
@@ -44,13 +33,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/LewisMagangi?label=Follow&style=social)](https://github.com/LewisMagangi)
 [![GitHub stars](https://img.shields.io/github/stars/LewisMagangi?label=Stars&style=social)](https://github.com/LewisMagangi)
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
@@ -62,21 +47,14 @@
 | 🩺 **Afya Bora** | Django web app for health & wellness community | Django, Python, SQLite, HTML, CSS | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/afya-bora) |
 | 🗣️ **SNE Portal** | Advanced web portal for secure online voice exams | Django, Python, Whisper, Coqui TTS, Selenium | [![Live](https://img.shields.io/badge/Live-70a5fd?style=flat&logo=render&logoColor=white)](https://sneportal.onrender.com/) [![Code](https://img.shields.io/badge/Code-38bdae?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/sneportal) |
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/LewisMagangi?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
-  </a>
-</div>
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/LewisMagangi?tab=repositories)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -86,6 +64,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -95,6 +74,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -102,25 +82,24 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-</div>
-
 ---
 
 ## 🏆 Coding Profiles & Gaming
 
-<div align="center">
-
 ### 💻 Competitive Programming
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Liquelaliqour)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/LewisMagangi/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Liquelaliqour)
 
 ### ♟️ Chess Profiles
+
 [![Lichess](https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/Lique)
 [![Chess.com](https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Liquelaliqour)
 
@@ -130,24 +109,12 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LewisMagangi&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Weekly Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LewisMagangi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewisMagangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisMagangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
 ## 🎯 What I'm Up To
-
-<div align="center">
 
 ```javascript
 const lewisCurrently = {
@@ -193,33 +160,19 @@ const lewisCurrently = {
 
 ## 🎮 Interactive GitHub Games
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg)
 
 ---
 
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
+### 💭 Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<div align="center">
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
+<!-- Footer Wave -->
+![Footer Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
   
-  ### 🚀 "Happy Coding!" 
+### 🚀 "Happy Coding!"
   
-  **Thanks for visiting my profile! Let's connect and build something amazing together!**
-  
-</div>
+**Thanks for visiting my profile! Let's connect and build something amazing together!**
