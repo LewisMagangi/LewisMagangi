@@ -160,7 +160,7 @@ const lewisCurrently = {
 
 ## 🎮 Interactive GitHub Games
 
-![Snake animation](https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg)
+![Breakout Game](Images/breakout-light.svg)
 
 ---
 
