@@ -12,11 +12,12 @@
 
 ![Coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
-- 🔭 Currently working on **Portfolio**, **SNE Portal**, **Wamumbi** and private projects
+- 🔭 Currently working on **Portfolio**
 - 🌱 Learning **Pro Frontend/Backend Development** at **ALX**
 - 🎯 **2025 Goals:** Master full-stack development and contribute to open source
 - ⚡ **Fun fact:** I solve algorithmic puzzles and play chess in my free time
 - 😄 **Pronouns:** He/Him
+- 📍 **Location:** Kenya | Open to remote opportunities
 - 💬 Ask me about **Web Development**, **Algorithms**, **Chess Strategy**
 
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
@@ -25,10 +26,11 @@
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lewis-magangi.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lewis_Magangi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-magangi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Liquelaliqour)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Liquelaliqour) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewismomanyi34@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/LewisMagangi?label=Follow&style=social)](https://github.com/LewisMagangi)
 [![GitHub stars](https://img.shields.io/github/stars/LewisMagangi?label=Stars&style=social)](https://github.com/LewisMagangi)
@@ -39,13 +41,9 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🏠 **Portfolio** | Personal portfolio showcasing my work (coming soon) | React, TypeScript, Tailwind | — |
-| 💧 **Solar Powered Water ATM System** | Python-based web app for secure, sustainable water access via solar-powered dispensing units | Django, Python, Flask, REST API, IoT, SQL | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/solar-water-atm) |
-| 🐟 **Sustainable Fishing Platform** | Modular Django platform for community-driven sustainable fishing | Django, Python, SQLite, HTML5, CSS3, JS | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=render&logoColor=white)](https://sustainablefishing.onrender.com/content/home/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/sustainable-fishing) |
-| 🔐 **Cryptography Web App** | Django-based platform for cryptographic analysis and visualization | Django, Python, REST API, Cryptography, SQLite | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/cryptography-web-app) |
+| 🏠 **Portfolio** | Personal portfolio showcasing my work | React, TypeScript, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://lewis-magangi.vercel.app) |
+| 🌐 **ALX Project Nexus** | Full-stack social media platform with Django backend and Next.js frontend for communities | Django, Python, Next.js, React, TypeScript, PostgreSQL | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://alx-project-nexus-social.vercel.app/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/alx-project-nexus) |
 | 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://wamumbi.vercel.app/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/wamumbi) |
-| 🩺 **Afya Bora** | Django web app for health & wellness community | Django, Python, SQLite, HTML, CSS | [![Code](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/LewisMagangi/afya-bora) |
-| 🗣️ **SNE Portal** | Advanced web portal for secure online voice exams | Django, Python, Whisper, Coqui TTS, Selenium | [![Live](https://img.shields.io/badge/Live-70a5fd?style=flat&logo=render&logoColor=white)](https://sneportal.onrender.com/) [![Code](https://img.shields.io/badge/Code-38bdae?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/sneportal) |
 
 [![View All Projects](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/LewisMagangi?tab=repositories)
 
@@ -122,42 +120,18 @@
 ## 🎯 What I'm Up To
 
 ```javascript
-const lewisCurrently = {
-    code: ["JavaScript", "TypeScript", "Python", "Django"],
-    askMeAbout: [
-        "Web Development", 
-        "Algorithms", 
-        "Chess Strategy", 
-        "Tech Career"
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["Django", "Flask"],
-            js: ["Node", "Express"]
-        },
-        databases: [
-            "PostgreSQL", 
-            "MySQL", 
-            "MongoDB", 
-            "SQLite"
-        ],
-        misc: [
-            "Docker", 
-            "REST APIs", 
-            "GraphQL"
-        ]
-    },
-    architecture: [
-        "Microservices", 
-        "Event-Driven", 
-        "Design System Pattern"
-    ],
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug code faster when listening to classical music 🎵"
+const whatImUpTo = {
+  currentlyCoding: ["JavaScript", "TypeScript", "Python", "Django"],
+  askMeAbout: ["Web Development", "Algorithms", "Chess Strategy", "Tech Career"],
+  techStackFocus: {
+    frontend: ["React", "Next.js", "Tailwind", "Bootstrap"],
+    backend: ["Django", "Flask", "Node.js", "Express"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+    tools: ["Docker", "REST APIs", "GraphQL"]
+  },
+  architectureInterests: ["Microservices", "Event-Driven Systems", "Design System Patterns"],
+  currentFocus: "Building scalable full-stack applications",
+  funFact: "I debug code faster when listening to classical music 🎵"
 };
 ```
 
