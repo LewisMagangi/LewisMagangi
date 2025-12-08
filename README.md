@@ -26,7 +26,7 @@
 
 ## 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lewis-magangi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lewismagangi.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Lewis_Magangi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lewis-magangi)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Liquelaliqour) -->
@@ -41,7 +41,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🏠 **Portfolio** | Personal portfolio showcasing my work | React, TypeScript, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://lewis-magangi.vercel.app) |
+| 🏠 **Portfolio** | Personal portfolio showcasing my work | React, TypeScript, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://lewismagangi.vercel.app) |
 | 🌐 **ALX Project Nexus** | Full-stack social media platform with Django backend and Next.js frontend for communities | Django, Python, Next.js, React, TypeScript, PostgreSQL | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://alx-project-nexus-social.vercel.app/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/alx-project-nexus) |
 | 🌍 **Wamumbi Web Platform** | Modern full-stack app with Next.js & TypeScript | Next.js, React, TypeScript, Prisma, PostgreSQL, Tailwind | [![Live](https://img.shields.io/badge/Live-38bdae?style=flat&logo=vercel&logoColor=white)](https://wamumbi.vercel.app/) [![Code](https://img.shields.io/badge/Code-70a5fd?style=flat&logo=github&logoColor=white)](https://github.com/LewisMagangi/wamumbi) |
 
