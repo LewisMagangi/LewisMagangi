@@ -139,7 +139,7 @@ const whatImUpTo = {
 
 ## 🎮 Interactive GitHub Games
 
-![Breakout Game](Images/breakout-light.svg)
+![Snake animation](https://raw.githubusercontent.com/LewisMagangi/LewisMagangi/master/output/github-contribution-grid-snake.svg)
 
 ---
 
